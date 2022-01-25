@@ -40,10 +40,10 @@ Kahor intaadan gujin deploy to heroku kaliya ku dhufo fargeeto oo xidigta hoose
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/LushaiMusic/VCsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
-- Click the below button to watch the video tutorial on deploying
+- Guji badhanka hoose si aad u daawato casharka fiidyaha ee ku saabsan hawlgelinta
 
-<a href="https://youtu.be/koAzUgNQaDU"><img src="https://img.shields.io/badge/How%20To%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/koAzUgNQaDU"><img src="https://img.shields.io/youtube/views/koAzUgNQaDU?style=social">
+<a href="https://youtu.be/ifcZbPZcwxU"><img src="https://img.shields.io/youtube/views/ifcZbPZcwxU?style=social"></a>
+<a href="https://youtu.be/ifcZbPZcwxU"><img src="https://img.shields.io/youtube/likes/ifcZbPZcwxU?style=social">
 
 
 ###  GET STRING SESSION FROM REPL RUN
