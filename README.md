@@ -1,142 +1,110 @@
-# rib
-Osmanigroupbot 
-<h1 align="centre">OsmaniRibVc v5.0</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1> RaiChu Music </h1>
 
-### Bot ka ciyaari kara muusiga Kooxda Telegram iyo Chats-ka Codka Kanaalka
+telegram bot project for streaming video on telegram video chat, powered by [tgcalls](https://github.com/MarshalX/tgcalls) and [pyrogram](https://github.com/pyrogram/pyrogram)
+
+<p align="center"><a href="https://t.me/BotDuniyaXd"><img src="https://telegra.ph/file/29b1910781fb0d6a4869f.jpg" width="300"></a></p>
 <p align="center">
-  <a href="https://github.com/jaabirosman/rib">
-     <img height="30px" src="osmanibot">
-  </a>
+    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=green" /></a>
+    <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /></a>
+    <a href="https://app.codacy.com/gh/AMANTYA1/RaiChu-MusicV2/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=green&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
+    <a href="https://github.com/AMANTYA1/RaiChu-MusicV2"> <img src="https://img.shields.io/github/repo-size/AMANTYA1/Video-call-bot?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/commits/main"> <img src="https://img.shields.io/github/last-commit/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/issues"> <img src="https://img.shields.io/github/issues/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/network/members"> <img src="https://img.shields.io/github/forks/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/network/members"> <img src="https://img.shields.io/github/stars/AMANTYA1/RaiChu-MusicV2?color=green&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
+
 
 <p align="center">
-  <a href="https://t.me/osmanibots">
-     <img height="200px" src="https://telegra.ph/file/086b35ba765a023e18498.jpg">
+  <a href="https://github.com/AMANTYA1/RaiChu-MusicV2/fork">
+    <img src="https://img.shields.io/github/forks/AMANTYA1/RaiChu-MusicV2?color=dark&label=FORK&logo=github&style=plastic"width="100" height="35"> 
   </a>
-</p>
-
-## Love Sii Kaaga 💙
-Kahor intaadan gujin deploy to heroku kaliya ku dhufo fargeeto oo xidigta hoose
-<p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot/fork">
-    <img src="https://img.shields.io/github/followers/jaabirosman?style=social">
-    
+  <a href="https://github.com/youtubeslgeekshow/Video-call-bot/stars">
+    <img src="https://img.shields.io/github/stars/AMANTYA1/RaiChu-MusicV2?color=dark&label=STARS&logo=github&style=plastic"width="100" height="35">
   </a>
-  <a href="https://github.com/LushaiMusic/GroupMusicBot">
-    <img src="https://img.shields.io/github/stars/LushaiMusic/VCsMusicBot?style=social">
-  </a>
-</p>
+</p>  
 
-## Deploy to Qovery
+## Repo Stats
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AMANTYA1&repo=RaiChu-MusicV2&theme=dark)
 
-<p align="left">
-  <a href="https://qovery.com">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Qovery-blueviolet?style=for-the-badge&logo=qovery">
-  </a>
-</p>
+## Fine me here  [RaiChu](https://t.me/YumiXBot)
+
+🏷️ --**Setting Up**-- :
+- 1.) first, add @YumiXBot to your group.
+- 2.) then promote me as admin and give all permissions except anonymous admin.
+- 3.) add @RaiChupulgXd to your group.
+- 4.) turn on the voice chat first before start to play song.
+- 5.) type /play (reply to video) to start streaming.
+- 6.) type /end to end the video streaming.
+
+## 🛠 Available Commands:
+
+🏷️ --**Common Commands**-- :
+
+COMMAND | FUNCTION
+:--- | :---
+`/start` | start bot
+`/help`| get help
+`/video` [name] | download the video
+
+🏷️ --**Admin Only Commands**-- :
+
+COMMAND | FUNCTION
+:--- | :---
+` /play` | video url
+`/play`| stream the replied video
+`/mute` | mute the userbot in vc
+`/unmute` | unmute the userbot in vc
+`/end`| end stream and left vc
+`/skip`| to skip a current song
+
+## 🍁 Get STRING_SESSION from below:
+
+Get pyrogram `SESSION` from here:
 
 
-### Deploy To Heroku 📡</h4>
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/LushaiMusic/VCsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
-
-- Guji badhanka hoose si aad u daawato casharka fiidyaha ee ku saabsan hawlgelinta
-
-<a href="https://youtu.be/ifcZbPZcwxU"><img src="https://img.shields.io/youtube/views/ifcZbPZcwxU?style=social"></a>
-<a href="https://youtu.be/ifcZbPZcwxU"><img src="https://img.shields.io/youtube/likes/ifcZbPZcwxU?style=social">
+<p align="center"><a href="https://t.me/StringGenRo_bot"><img src="https://img.shields.io/badge/REPLIT-SESSION-yellow?style=plastic&logo=replit&logoColor=red"width="270" height="40" /></a></p>
 
 
-###  GET STRING SESSION FROM REPL RUN
 
- [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@ZauteKm/GenerateStringSession#main.py)
+##  Deploy to Heroku  🤝
+The easiest way to host this bot
 
-### Deploy to VPS 🏃
-```sh
-# Install Git First (apt-instll git)
-$ git clone https://github.com/LushaiMusic/VCsMusicBot
-$ cd VCsMusicBot
-# Upgrade sources
-# Install All Requirements 
-$ pip3 install -r requirements.txt
-# Fork This Repo and fill local.env and config.py both with your own values.Then Start The Bot
-$ python3 -m VCsMusicBot
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/jaabirosman/Osmani-MusicV2"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
+
+
+## VPS Deployment
 ```
+- First Fork the repo
+- fill config.py
 
-### Features ✅
+- sudo apt update && apt upgrade -y 
+- sudo apt install python3-pip ffmpeg -y
+- sudo curl -sL https://deb.nodesource.com/setup_17.x | sudo bash -
+- sudo apt-get install -y nodejs
+- sudo npm i -g npm
+- git clone https://github.com/AMANTYA1/RaiChu-MusicV2  #Clone your repo.
+- cd RaiChu-MusicV2
+- sudo pip3 install --upgrade pip
+- sudo pip3 install -U -r requirements.txt
+- sudo python3 main.py
+```
+ </details> 
 
-- Thumbnail Support
-- Playlist Support
-- Current playback support
-- Showing track names when skipping
-- Zero downtime, Fully Stable
-- DEEZER,YOUTUBE & SAAVN PLAYBACK SUPPORTED
-- Settings panel
-- Control with buttons
-- Userbot auto join
-- Channel Music Play
-- Keyboard selection support for YouTube play
+ <h3> <details>
+  <summary><b>Credits 💖</b></summary>
 
-### Commands for Group 👥
-#### For all in group
+- [Null Coder](https://github.com/AMANTYA1) for Editing
+- [Levina](https://github.com/levina-lab/video-stream) for Codes
+- [Team Yukki](https://github.com/TeamYukki/YukkiMusicBot) for Thumbnail
+- [Marshal](https://github.com/MarshalX) for [pytgcalls](https://github.com/MarshalX)
+- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram) 
+</details> </h3>
 
-- `/play <song name>` - play song you requested
-- `/play <reply to audio>` - play replied file
-- `/dplay <song name>` - play song you requested via deezer
-- `/splay <song name>` - play song you requested via jio saavn
-- `/ytplay <song name>`: Directly play song via YouTube Music
-- `/playlist` - Show now playing list
-- `/current` - Show now playing
-- `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
-- `/deezer <song name>` - download songs you want quickly via deezer
-- `/saavn <song name>` - download songs you want quickly via saavn
-- `/video <song name>` - download videos you want quickly
+### Support & Updates 🌹
+<a href="https://t.me/godzilla_chatting"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
-### Admins only 🏅
-- `/player` - open music player settings panel
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
-- `/userbotjoin` - invite assistant to your chat
-- `/userbotleave` - remove assistant from your chat
-- `/reload` - Refresh admin list
-- `/musicplayer [on/off]` - Enable/Disable Music Player
-
-### Channel Music Play 👨‍🎤
-*For linked group admins only:*
-- `/cplay <song name>` - play song you requested
-- `/cplay <reply to audio>` - play replied file
-- `/cdplay <song name>` - play song you requested via deezer
-- `/csplay <song name>` - play song you requested via jio saavn
-- `/cplaylist` - Show now playing list
-- `/cccurrent` - Show now playing
-- `/cplayer` - open music player settings panel
-- `/cpause` - pause song play
-- `/cresume` - resume song play
-- `/cskip` - play next song
-- `/cend` - stop music play
-- `/userbotjoinchannel` - invite assistant to your chat
-* channel is also can be used instead of c
-
-If you donlt like to play in linked channel:
- 1. Get your channel ID.
- 2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@VCsMusicPlayer](https://t.me/VCsMusicPlayer) as Channel admin with full perms
- 4. add helper to channel
- 5. Simply send commands in your group.
-
-### Commands for Sudo Users 👮
-- `/userbotleaveall` - remove assistant from all chats
-- `/gcast <reply to message>` - globally brodcast replied message to all chats
-- `/pmpermit [on/off]` - enable/disable pmpermit message
-
-### PMpermit
-- `.a` - approove someone to pm you
-- `.da` - disapproove someone to pm you
-+ Sudo Users can execute any command in any groups
-
-### Credits
-#### Special Credits
-- [Zaute-Km](https://github.com/Zaute-Km): LushaiMusic Developer
-- [Rojserbest](http://github.com/rojserbest): Callsmusic Developer
+</a> <a href="https://t.me/BotDuniyaXd"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
