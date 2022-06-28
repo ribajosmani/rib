@@ -86,7 +86,7 @@ The easiest way to host this bot
 - sudo apt-get install -y nodejs
 - sudo npm i -g npm
 - git clone https://github.com/jaabirosman/rib  #Clone your repo.
-- cd RaiChu-MusicV2
+- cd jaabirosman/rib
 - sudo pip3 install --upgrade pip
 - sudo pip3 install -U -r requirements.txt
 - sudo python3 main.py
